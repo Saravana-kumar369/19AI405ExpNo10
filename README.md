@@ -96,6 +96,3 @@ print(plan)
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/2ae160e4-7e48-4fb3-8b9a-3454859aab7f)
 
-
-# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
-<h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
